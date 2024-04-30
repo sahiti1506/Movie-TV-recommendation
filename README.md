@@ -44,16 +44,3 @@ One unique feature of the system is its integration with OpenAI's ChatGPT API. I
 - "react-scripts": "5.0.1"
 - "react-youtube": "^10.1.0"
 
-preview 1:-
-![Screenshot of My Project](./src/assets/longScreenShot.png)
-
-
-preview 2:-
-![Screenshot of My Project](./src/assets/longScreenShot2.png)
-
-
-To run the project locally:
-
-1. Clone the repository: `git clone https://github.com/SamhithMR/filmCritic.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
