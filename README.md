@@ -3,8 +3,7 @@
 A movie recommendation system built with ReactJS, utilizing ***ChatGPT's API and TMDB's API***  to fetch movie data. The system also uses Redux for state management and is fully responsive. By sending requests to the ChatGPT API, the system generates a summary of viewer sentiment and key topics related to a movie, providing users with more informed recommendations.
 
 
-## Live Demo
-**Check out the live demo [https://filmcritics.netlify.app](https://filmcritics.netlify.app)**
+
 
 ## Description
 
